@@ -1,1 +1,1 @@
-![Interface da Landpage](./project/src/public/interface.png)
+![Interface da Landpage](project/src/public/interface.png)
