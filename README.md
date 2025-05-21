@@ -1,1 +1,1 @@
-![image](https://github.com/leopatro/trendyza/project/src/public/interface.png)
+![Interface da Landpage](./project/src/public/intrface.png)
